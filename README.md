@@ -1,4 +1,4 @@
-# 34-data-governance-blueprint
+# 34-gcp-automation-blueprint
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
